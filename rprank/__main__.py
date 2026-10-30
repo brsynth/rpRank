@@ -1,14 +1,16 @@
 from os import path as os_path
 
 from brs_utils import (
-    init as init_logger,
     build_args_parser,
+)
+from brs_utils import (
+    init as init_logger,
 )
 from rplibs import rpPathway
 
-from .Args import add_arguments
-from .rprank import rank
 from ._version import __version__
+from .args import add_arguments
+from .rprank import rank
 
 
 def entry_point():

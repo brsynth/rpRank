@@ -4,6 +4,7 @@ from os import path as os_path
 from unittest import TestCase
 
 from rplibs import rpPathway
+
 from rprank import rank
 
 
