@@ -1,0 +1,7 @@
+name: rprank
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - brs_utils>=1.26.0
+  - rplibs>=6.9.5
