@@ -1,8 +1,16 @@
 # Changelog
 
+## [0.0.2](https://github.com/brsynth/rpRank/tree/0.0.2) (2026-11-09)
+
+[Full Changelog](https://github.com/brsynth/rpRank/compare/0.0.1...0.0.2)
+
 ## [0.0.1](https://github.com/brsynth/rpRank/tree/0.0.1) (2026-10-30)
 
 [Full Changelog](https://github.com/brsynth/rpRank/compare/97eb471ab347cb33362afd48b14460c8205549e7...0.0.1)
+
+**Merged pull requests:**
+
+- docs\(README\): remove reference to nonexistent ci folder [\#1](https://github.com/brsynth/rpRank/pull/1) ([breakthewall](https://github.com/breakthewall))
 
 
 
