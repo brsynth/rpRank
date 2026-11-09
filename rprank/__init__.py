@@ -1,7 +1,7 @@
 """
 Created on Sep 6 2021
 
-@author: Joan Hérisson, Jean-Loup Faulon
+@author: Joan Hérisson
 """
 
 from rprank.rprank import rank
