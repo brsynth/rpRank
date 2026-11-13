@@ -1,8 +1,20 @@
 # Changelog
 
+## [6.8.2](https://github.com/brsynth/rpRank/tree/6.8.2) (2026-11-13)
+
+[Full Changelog](https://github.com/brsynth/rpRank/compare/6.8.1...6.8.2)
+
+## [6.8.1](https://github.com/brsynth/rpRank/tree/6.8.1) (2026-11-13)
+
+[Full Changelog](https://github.com/brsynth/rpRank/compare/0.0.3...6.8.1)
+
 ## [0.0.3](https://github.com/brsynth/rpRank/tree/0.0.3) (2026-11-13)
 
 [Full Changelog](https://github.com/brsynth/rpRank/compare/0.0.2...0.0.3)
+
+**Merged pull requests:**
+
+- update version [\#3](https://github.com/brsynth/rpRank/pull/3) ([breakthewall](https://github.com/breakthewall))
 
 ## [0.0.2](https://github.com/brsynth/rpRank/tree/0.0.2) (2026-11-09)
 
