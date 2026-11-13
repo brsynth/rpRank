@@ -1,8 +1,16 @@
 # Changelog
 
+## [0.0.3](https://github.com/brsynth/rpRank/tree/0.0.3) (2026-11-13)
+
+[Full Changelog](https://github.com/brsynth/rpRank/compare/0.0.2...0.0.3)
+
 ## [0.0.2](https://github.com/brsynth/rpRank/tree/0.0.2) (2026-11-09)
 
 [Full Changelog](https://github.com/brsynth/rpRank/compare/0.0.1...0.0.2)
+
+**Merged pull requests:**
+
+- rm JLF as author [\#2](https://github.com/brsynth/rpRank/pull/2) ([breakthewall](https://github.com/breakthewall))
 
 ## [0.0.1](https://github.com/brsynth/rpRank/tree/0.0.1) (2026-10-30)
 
